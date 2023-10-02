@@ -3,3 +3,22 @@ Git add new.txt
 Git commit -m "the first step"
 Git remote origin master <url>
 Git push origin master 
+
+
+
+
+git init
+git add new.txt
+git commit -m "first try"
+git remote add origin https://github.com/anukzak22/new_git.git
+git push origin master
+*******
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 295 bytes | 295.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/anukzak22/new_git.git
+ * [new branch]      master -> master
+
+******done
